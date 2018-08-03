@@ -1,0 +1,11 @@
+﻿# Table of contents data. See https://johtela.github.io/LiterateCS/TableOfContents.html
+# for description of the format.
+
+contents:
+  - page: Home
+    file: index.md
+    desc: Library home page.
+
+  - page: MathStuff
+    file: LiterateLib\MathStuff.cs
+    desc: A class that does math stuff.
