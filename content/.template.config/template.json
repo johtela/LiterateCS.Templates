@@ -6,5 +6,21 @@
   "name": "Literate class library",
   "shortName": "literatelib",
   "sourceName": "LiterateLib",
-  "preferNameDirectory": true
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "symbols": {
+    "footer": {
+      "type": "parameter",
+      "defaultValue": "Copyright © 2018 John Doe",
+      "replaces": "Copyright © 2018 John Doe"
+    },
+    "github": {
+      "type": "parameter",
+      "defaultValue": "https://github.com/user/project",
+      "replaces": "https://github.com/user/project"
+    }
+  }
 }

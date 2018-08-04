@@ -12,6 +12,6 @@
     </packageTypes>
   </metadata>
   <files>
-    <file src="content/**" target="/" exclude="**/bin/**;**/obj/**" />
+    <file src="content/**" target="/" exclude="**/bin/**;**/obj/**;**/.vs/**;**/docs/**;**/buildlog.txt" />
   </files>
 </package>
